@@ -1,0 +1,8 @@
+"./main.obj"
+"./printf.obj"
+"./ring_buffer.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./trace.obj"
+"./uart.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
