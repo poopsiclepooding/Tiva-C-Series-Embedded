@@ -1,5 +1,3 @@
-# Group12_Lab05
-
 ## Question
 Write a program where the press of a switch is detected by a GPIO interrupt. On each button press the interrupt handler should toggle the state of RED LED.
 
