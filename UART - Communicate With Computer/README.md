@@ -1,5 +1,3 @@
-# Group12_Lab08
-
 ## Question
 1. Program your micro-controller to serially communicate with your laptop/computer.
 
