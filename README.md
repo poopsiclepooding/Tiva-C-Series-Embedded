@@ -1,4 +1,4 @@
-# Tiva-C-Series-Embedded
+# Tiva C Series Embedded
 
 ## Introduction
 This repository contains various embedded system code examples for the **Tiva C Series TM4C123G LaunchPad**. Each folder in this repository contains a Code Composer Studio project that demonstrates different peripheral functionalities and interrupt handling techniques, such as GPIO interrupts, PWM, SysTick interrupts, and UART communication. The code is properly commented, and a detailed explanation of each example is provided in the respective README or PDF file in each folder.
